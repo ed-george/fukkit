@@ -18,7 +18,7 @@
 
 This project uses Google's [Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/reference/libraries) and as such, will require authentication to carry out any audio analysis.
 
-### Google Console Setup
+### Google Console Setup
 
 Firstly, you will need to [create an application](https://console.developers.google.com/projectcreate) within Google's Cloud Console and [enable the Cloud Speech-to-Text API](https://console.developers.google.com/apis/api/speech.googleapis.com/overview).
 
