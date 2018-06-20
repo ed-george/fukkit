@@ -14,7 +14,7 @@
 </p>
 
 
-## Setup ⚠️
+## Setup ⚠️
 
 This project uses Google's [Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/reference/libraries) and as such, will require authentication to carry out any audio analysis.
 
@@ -36,7 +36,7 @@ Once completed, follow these steps in order to correctly generate the auth file 
 
 6. Within a terminal, create an environment variable `GOOGLE_APPLICATION_CREDENTIALS` that points to the path of the downloaded file.
 
-## Usage 🙊🗯
+## Usage 🙊🗯
 
 This project is still a work in progress, full usage details will be provided as soon as possible 
 
