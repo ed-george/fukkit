@@ -16,9 +16,18 @@
 
 ## Setup ⚠️
 
-This project uses Google's [Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/reference/libraries) and as such, will require authentication to carry out any audio analysis.
+This project relies on [ffmpeg](https://www.ffmpeg.org/) to modify audio and censor profanities.
 
-### Google Console Setup
+This project also uses Google's [Cloud Speech-to-Text API](https://cloud.google.com/speech-to-text/docs/reference/libraries) and as such, will require authentication to carry out any audio analysis.
+
+After cloning and downloading the project, please follow this guide in order to have an enviroment that can run this application
+
+### ffmpeg Setup (Required)
+
+Follow this [excellent guide](https://github.com/adaptlearning/adapt_authoring/wiki/Installing-FFmpeg) on how to install ffmpeg on your machine
+
+
+### Google Console Setup (Required)
 
 Firstly, you will need to [create an application](https://console.developers.google.com/projectcreate) within Google's Cloud Console and [enable the Cloud Speech-to-Text API](https://console.developers.google.com/apis/api/speech.googleapis.com/overview).
 
