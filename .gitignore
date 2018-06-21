@@ -2,8 +2,8 @@
 # Created by https://www.gitignore.io/api/kotlin
 
 ### Audio Files
-*.flac
-*.wav
+src/main/resources/*.flac
+src/main/resources/*.wav
 
 ### Gradle
 

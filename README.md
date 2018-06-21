@@ -13,6 +13,10 @@
     A Kotlin application to censor profanity within an audio file using ffmpeg
 </p>
 
+## Examples ❌🤬 
+
+Check out the [examples folder](https://github.com/ed-george/fukkit/tree/master/examples) for a sample input and a generated output of this application.
+
 
 ## Setup ⚠️
 
